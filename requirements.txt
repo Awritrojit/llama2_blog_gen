@@ -1,7 +1,9 @@
 sentence-transformers
 uvicorn
+transformers
 ctransformers
 langchain
 langchain-community
 python-box
 streamlit
+python-dotenv
